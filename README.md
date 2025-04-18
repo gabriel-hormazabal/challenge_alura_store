@@ -36,9 +36,6 @@ Jupyter Notebook
 
 Puedes instalar las dependencias utilizando pip:
 
-bash
-Copiar
-Editar
 pip install pandas matplotlib seaborn
 Uso
 Clona el repositorio o descarga el archivo AluraStoreLatam.ipynb.
@@ -49,6 +46,3 @@ Ejecuta las celdas para ver los resultados del análisis y las visualizaciones g
 
 Contribuciones
 Si deseas contribuir al proyecto, por favor abre un issue o envía un pull request. Cualquier mejora o sugerencia será bienvenida.
-
-Licencia
-Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
